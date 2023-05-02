@@ -7,14 +7,14 @@ body{
 	background-color: black;
 	color:white;
 }
-.list p{
+.p-4{
 	color: red;
 }
-li::first-line{
-	backgroud-color: white;
+.list li{
+	bakground-color: white;
 }
 
-.list .li-2{
+.list p{
 	backgroud-color: stalegray;
 	width:100%
 }

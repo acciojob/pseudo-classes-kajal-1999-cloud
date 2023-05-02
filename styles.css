@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+body{
+	background-color: skyblue;
+	
+}
+.p-1{
+	background-color: black;
+	color:white;
+}
+.list p{
+	color: red;
+}
+li::first-line{
+	backgroud-color: white;
+}
+
+.list .li-2{
+	backgroud-color: stalegray;
+	width:100%
+}
+
+
+
+
+

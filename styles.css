@@ -1,25 +1,31 @@
 /*  your css code here. If applicable */
-body{
-	background-color: skyblue;
-	
-}
+
 .p-1{
 	background-color: black;
-	color:white;
+	color: white;
+}
+.list li:first-child{
+	background-color: white;
 }
 .p-4{
 	color: red;
 }
-.list li{
-	bakground-color: white;
+.list li:nth-child(2n){
+	background-color: grey;
+	color:black;
+}
+.list li:last-child{
+	background-color: white;
+	color:black;
 }
 
-.list p{
-	backgroud-color: stalegray;
-	width:100%
+:root{
+	background-color: skyblue;
+	color:black;
 }
-
-
-
-
+.list li:nth-child(3)
+{
+	background-color: pink;
+	color:black;
+}
 
